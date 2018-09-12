@@ -40,8 +40,6 @@ def find_results(results)
 end
 
 
-
-
   puts "The following food trucks are currently open:"
   puts "\n"
   find_results(results)
